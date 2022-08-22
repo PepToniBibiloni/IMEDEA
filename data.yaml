@@ -1,0 +1,3 @@
+# Classes
+nc: 7  # number of classes
+names: ['balistes','bothus','dactylopterus','dasyatis','myliobatis','pagellus','raor']  # class names
